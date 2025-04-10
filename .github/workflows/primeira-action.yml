@@ -8,7 +8,7 @@ on:
     branches: ["main"]
   
   #Definindo o que queremos executar
-  jobs:
+jobs:
     exemplo:
       runs-on: ubuntu-latest
       steps: 
